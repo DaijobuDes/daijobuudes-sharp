@@ -1,0 +1,24 @@
+# Visual Studio generated files
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+
+# User specifiec files
+*.suo
+*.user
+
+# NuGet Packages
+*.nupkg
+
+# Build files
+*.exe
+*.dll
+*.ipch
+
+# Program debug files
+*.pdb
+
+# Token file
+token.txt
